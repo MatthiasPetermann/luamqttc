@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "luamqttc"
+version = "1.1.4"
+
+desc = "A lua mqtt client which is based on the paho Embedded MQTT C Client Libraries."
+author = "many (see COPYING)"
+license = "EPL/EDL"
+url = "https://github.com/MatthiasPetermann/luamqttc"
+maintainer = "Matthias Petermann"
+
+depends = {
+	"lua ~> 5.1"
+}
